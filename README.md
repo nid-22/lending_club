@@ -64,8 +64,8 @@ To develop your understanding of the domain, you are advised to independently re
 
 
 ## Technologies Used
-- python - version 1.0
-- pandas - version 2.0
+- python - version 3.9.7
+- pandas - version 1.3.4
 - numpy - version 3.0
 - matplotlib - version 3.0
 - seaborn - version 3.0
