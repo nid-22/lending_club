@@ -1,6 +1,4 @@
 # Lending Club Case Study
-Solving this assignment will give you an idea of how real business problems are solved using EDA. In this case study, apart from applying the techniques you have learned in EDA, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.
-
 
 ## Table of Contents
 * [General Info](#general-information)
